@@ -8,7 +8,10 @@ Take a look at the example usage in **main.py**.
 
 This project has been used for reading XBox controller actions:
 
-https://github.com/r4dian/Xbox-Controller-for-Python/tree/master
+https://github.com/r4dian/Xbox-Controller-for-Python
+
+![image](https://github.com/1000101cz/PyQtXBoxController/assets/71834145/18df6813-b0c8-42f6-86fa-69f356cec4bf)
+
 
 ### params
 
