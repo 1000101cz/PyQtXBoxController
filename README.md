@@ -44,6 +44,6 @@ Those signals are accessible using for example this:
 
 You will need to install and start XBox application
 
-### Linux
+### Linux (not working)
 
-On Linux you can use [medusalix's xone](https://github.com/medusalix/xone) driver to replace XBox application:
+On Linux you can use [medusalix's xone](https://github.com/medusalix/xone) driver to replace XBox application, but **ctypes.windll** used in this example is not available on Linux...
